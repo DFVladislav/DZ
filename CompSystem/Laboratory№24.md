@@ -191,17 +191,42 @@ who | grep tty23
 
 2. Используя команды ОС Linux, создать два текстовых файла.
 
+<img width="458" height="142" alt="image" src="https://github.com/user-attachments/assets/454dc4ea-4926-4f4c-9a57-177cbc21a239" />
+
+
 3. Полученные файлы объединить в один файл и его содержимое просмотреть на экране.
+
+<img width="560" height="123" alt="image" src="https://github.com/user-attachments/assets/e4d49abd-8977-4139-bc65-82cbbe4cfe98" />
+
 
 4. Создать новую директорию и переместить в нее полученные файлы.
 
+<img width="548" height="113" alt="image" src="https://github.com/user-attachments/assets/693710dc-0d00-4110-8cdd-36d20dcfc555" />
+
+
+
 5. Вывести полную информацию обо всех файлах и проанализировать уровни доступа.
+
+<img width="543" height="99" alt="image" src="https://github.com/user-attachments/assets/7a6ae85d-b155-42ec-99c8-0ffdcc84cbc1" />
+
 
 6. Добавить для всех трех файлов право выполнения членам группы и остальным пользователям.
 
+<img width="555" height="128" alt="image" src="https://github.com/user-attachments/assets/58fc8f3e-1130-496c-8c29-7bccf15ff12f" />
+
+
 7. Просмотреть атрибуты файлов.
 
+<img width="566" height="73" alt="image" src="https://github.com/user-attachments/assets/0db8ef41-895c-4183-8b89-a9f6b2a246ec" />
+
+
 8. Получить информацию об активных процессах и имена других пользователей.
+
+<img width="465" height="175" alt="image" src="https://github.com/user-attachments/assets/25ad419d-604c-41b2-882e-6e49b406152b" />
+
+<img width="767" height="912" alt="image" src="https://github.com/user-attachments/assets/6963f3e7-787c-4134-bd8f-b19f4764e99c" />
+
+
 
 
 ## Ответы на контрольные вопросы (просто и коротко)
