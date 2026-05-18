@@ -75,6 +75,10 @@ scp [опции] источник назначение
 scp file.txt user@remote-host:/path/to/dest/
 ```
 
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c1d63411-8823-48d9-a9b0-93d71b939ad4" />
+
+
 > **Важно:** Чтобы скопировать файл в определенную папку, укажите путь к ней после `:` в команде `scp`. Создайте папку перед выполнением `scp`, так как она не создает папки автоматически. Например, следующая команда копирует файл с именем `myfile.txt` в папку `project/` в домашней папке пользователя:
 > ```bash
 > scp myfile.txt <username>@<pi_ip_address>:project/
