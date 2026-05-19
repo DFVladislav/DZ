@@ -256,3 +256,13 @@ who | grep tty23
 
 **6. Какой командой получить список работающих пользователей и сохранить в файле?**
 `who > users.txt`
+
+
+
+
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2090b1c-9ff2-4e5f-a188-c32cf2e46fda" />
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5b961ef9-86f7-46a1-b47c-adc0ea2ee558" />
